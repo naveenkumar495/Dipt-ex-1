@@ -216,16 +216,35 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-- - **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
-- <img width="348" height="532" alt="image" src="https://github.com/user-attachments/assets/2ff5557a-9632-42fc-bf5d-bbe0e6b3f21b" />
-<img width="298" height="503" alt="image" src="https://github.com/user-attachments/assets/776b012d-05b8-4ba2-bdbe-d9827be3c186" />
-<img width="315" height="503" alt="image" src="https://github.com/user-attachments/assets/be63a95e-262e-4294-9546-e3c13b9f6e0c" />
-<img width="345" height="521" alt="image" src="https://github.com/user-attachments/assets/0daadb79-474f-4c7f-bb3a-54b6197acdc3" />
-<img width="391" height="508" alt="image" src="https://github.com/user-attachments/assets/4a9f21e3-9592-4d5b-b918-42db334afb6f" />
-<img width="344" height="521" alt="image" src="https://github.com/user-attachments/assets/51da2957-cf05-4f5f-ac3a-ca9bbc6bb4cc" />
-<img width="343" height="517" alt="image" src="https://github.com/user-attachments/assets/2472c402-31ab-4902-ac7d-9473e6609831" />
+- **ii)** Adjust Image Brightness.
+
+
+- **iii)** Modify Image Contrast.
+-
+- <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2ff5557a-9632-42fc-bf5d-bbe0e6b3f21b" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/776b012d-05b8-4ba2-bdbe-d9827be3c186" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/be63a95e-262e-4294-9546-e3c13b9f6e0c" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0daadb79-474f-4c7f-bb3a-54b6197acdc3" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/4a9f21e3-9592-4d5b-b918-42db334afb6f" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/51da2957-cf05-4f5f-ac3a-ca9bbc6bb4cc" />
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2472c402-31ab-4902-ac7d-9473e6609831" />
+
+
+
+
+
+
+
+ -**iv)** Generate Third Image Using Bitwise Operations. 
+ 
+<img width="1393" height="308" alt="image" src="https://github.com/user-attachments/assets/a6bb2ea4-0852-4584-bdfc-76b05d9d7446" />
+
 
 
 
